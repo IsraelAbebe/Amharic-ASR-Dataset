@@ -3,6 +3,11 @@ speech recognition for Amharic language
 --------------------------------------------------------------------
 Text data is adobted from [Contemporary Amharic Corpus (CACO)](http://www.findke.ovgu.de/findke/en/Research/Data+Sets/Contemporary+Amharic+Corpus+%28CACO%29-p-1142.html)
 
+## Length
+--------------------------------------
+
+- 2.3 hours 
+
 ## Contents
 --------------------------------------------------------------------
 
