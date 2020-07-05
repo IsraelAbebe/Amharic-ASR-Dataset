@@ -8,6 +8,10 @@ Text data is adobted from [Contemporary Amharic Corpus (CACO)](http://www.findke
 
 - 2.3 hours 
 
+## unsplitted 
+------------------------------------------------------------
+unsplitted row data can be found in `unsplitted` branch of this repository.
+
 ## Contents
 --------------------------------------------------------------------
 
