@@ -39,23 +39,3 @@ Dataset was recorded using [LIG-Aikuma app](https://lig-aikuma.imag.fr/download/
 
 
 
-
-## Dataset 
-----------------------------------------
-```
-@inproceedings{gezmu-etal-2018-contemporary,
-    title = "Contemporary {A}mharic Corpus: Automatically Morpho-Syntactically Tagged {A}mharic Corpus",
-    author = {Gezmu, Andargachew Mekonnen  and
-      Seyoum, Binyam Ephrem  and
-      Gasser, Michael  and
-      N{\"u}rnberger, Andreas},
-    booktitle = "Proceedings of the First Workshop on Linguistic Resources for Natural Language Processing",
-    month = aug,
-    year = "2018",
-    address = "Santa Fe, New Mexico, USA",
-    publisher = "Association for Computational Linguistics",
-    url = "https://www.aclweb.org/anthology/W18-3809",
-    pages = "65--70",
-    abstract = "We introduced the contemporary Amharic corpus, which is automatically tagged for morpho-syntactic information. Texts are collected from 25,199 documents from different domains and about 24 million orthographic words are tokenized. Since it is partly a web corpus, we made some automatic spelling error correction. We have also modified the existing morphological analyzer, HornMorpho, to use it for the automatic tagging.",
-}
-```
